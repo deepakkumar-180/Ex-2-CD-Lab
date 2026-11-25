@@ -1,4 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# NAME : DEEPAKKUMARS 
+# REG NO : 212225230042
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
@@ -32,6 +34,9 @@
 7.	Compile that file with C compiler and verify the output.
 
 # INPUT
+```a=b+c*d```
 # OUTPUT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6440fe03-2f32-465c-9468-87a7a72ae7a8" />
+
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
